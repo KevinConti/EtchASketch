@@ -1,0 +1,12 @@
+.pixel {
+	width: 30px;
+	height: 30px;
+	border: 1px black solid;
+    display: inline-block;
+}
+ 
+p {
+    font-size: 24px;  
+    text-align: center;
+    padding: auto;
+}

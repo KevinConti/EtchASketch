@@ -20,5 +20,5 @@ var paintColor = function () {
 $(document).ready(function () {
     "use strict";
     drawGrid();
-    $('.pixel').on('mouseenter', paintColor());
+    $('.pixel').mouseenter(paintColor);
 });
